@@ -1,0 +1,6 @@
+@APiGenerica_HostAddress = http://localhost:5043
+
+GET {{APiGenerica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
